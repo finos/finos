@@ -52,17 +52,18 @@ Here are some of FINOS' most active projects (as of 07 Nov 2025):
  - [TraderX](#TraderX)
  - [VUU](#VUU)
 # Projects by Tag
- - [innovation](innovation.md)
- - [community](community.md)
- - [automation](automation.md)
- - [infrastructure](infrastructure.md)
- - [compliance](compliance.md)
- - [ui](ui.md)
- - [framework](framework.md)
- - [collaboration](collaboration.md)
- - [data-modeling](data-modeling.md)
- - [reference-data](reference-data.md)
+ - [innovation](profile/innovation.md)
+ - [community](profile/community.md)
+ - [automation](profile/automation.md)
+ - [infrastructure](profile/infrastructure.md)
+ - [compliance](profile/compliance.md)
+ - [ui](profile/ui.md)
+ - [framework](profile/framework.md)
+ - [collaboration](profile/collaboration.md)
+ - [data-modeling](profile/data-modeling.md)
+ - [reference-data](profile/reference-data.md)
 # Special Interest Groups
+<a name="AI-Readiness"></a>
 ## AI Readiness
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/ai-readiness.svg" width="100px" />
@@ -85,13 +86,17 @@ _The AI Readiness SIG provides a space to address AI-related challenges that are
 > 
 #### Upcoming Meetings
 
+ - **AI Governance Framework Working Session** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://zoom.us/j/96783320878?pwd=AhCcHslTfeIeV82IeII1rHQUTYtoce.1))
  - **AI Readiness SIG** - _Every 2 weeks on Tuesdays_ ([Join Meeting](https://zoom.us/j/92957783050))
+ - **Applied GenAI bi-weekly call** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://zoom.us/j/93805835465?pwd=Ud1gmtTEHpByLoK7ttOAFtX0EtCuqG.1))
+ - **Open Financial LLM Leaderboard (OFLL) Working Session** - _Weekly on Tuesdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/97499954668?password=dbeea8fb-9611-4d7b-a0f4-366b36207a2b&amp;invite=true))
 
 [View On Calendar](https://calendar.finos.org)
 
 #### Further Details
  - [https://github.com/finos/ai-readiness](https://github.com/finos/ai-readiness)
  - [https://www.finos.org/ai-readiness](https://www.finos.org/ai-readiness)
+<a name="DevOps-Automation"></a>
 ## DevOps Automation Special Interest Group
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/devops-automation.svg" width="100px" />
@@ -115,9 +120,11 @@ _Provide a continuous compliance and assurance approach to DevOps that mutually 
 > 
 #### Upcoming Meetings
 
+ - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://zoom.us/j/95349776375))
  - **Architecture as Code Working Group - DevOps Automation** - _Monthly on the fourth tuesday_ ([Join Meeting](https://zoom.us/j/94904595244))
  - **Evolution at Scale - DevOps Automation Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://zoom.us/j/94904595244?pwd=djIxWjlrenBGNWZmSGZ3cWJhamFTZz09))
  - **FINOS DevOps Automation - Special Interest Group** - _Monthly on the third thursday_ ([Join Meeting](https://zoom.us/j/94904595244))
+ - **SDLC Governance Framework Working Group - Dev Ops Automation** - _Every 2 weeks on Mondays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/96292319760?password=a023f03e-c2aa-46fb-aae3-5d93c9d9664e&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -125,6 +132,7 @@ _Provide a continuous compliance and assurance approach to DevOps that mutually 
  - [https://github.com/finos/devops-automation](https://github.com/finos/devops-automation)
  - [http://devops.finos.org](http://devops.finos.org)
  - [https://github.com/finos/architecture-as-code](https://github.com/finos/architecture-as-code)
+<a name="Diversity-Equity-&-Inclusion-Special-Interest-Group"></a>
 ## Open Source Talent Acceleration Special Interest Group
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/dei-sig.svg" width="100px" />
@@ -145,6 +153,7 @@ _Provide a continuous compliance and assurance approach to DevOps that mutually 
 #### Further Details
  - [https://github.com/finos/open-source-talent-acceleration](https://github.com/finos/open-source-talent-acceleration)
  - [https://talent.finos.org/](https://talent.finos.org/)
+<a name="Financial-Objects"></a>
 ## Financial Objects
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/financial-objects.svg" width="100px" />
@@ -168,6 +177,7 @@ _FINOS Financial Objects Program Documentation_
 #### Further Details
  - [https://github.com/finos/financial-objects](https://github.com/finos/financial-objects)
  - [http://fo.finos.org](http://fo.finos.org)
+<a name="InnerSource-Special-Interest-Group"></a>
 ## FINOS InnerSource Special Interest Group
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/innersource.svg" width="100px" />
@@ -199,6 +209,7 @@ _The FINOS InnerSource SIG is a community of people implementing, or interested 
 > 
 #### Further Details
  - [https://github.com/finos/InnerSource](https://github.com/finos/InnerSource)
+<a name="Open-source-readiness"></a>
 ## FINOS Open Source Readiness Special Interest Group
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/open-source-readiness.svg" width="100px" />
@@ -229,6 +240,7 @@ _Accelerate financial services firms’ journeys toward open source readiness, b
 #### Further Details
  - [https://github.com/finos/open-source-readiness](https://github.com/finos/open-source-readiness)
  - [https://osr.finos.org](https://osr.finos.org)
+<a name="Regulation-Innovation-Special-Interest-Group"></a>
 ## FINOS Regulation Innovation Special Interest Group
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/regulation-innovation.svg" width="100px" />
@@ -251,6 +263,7 @@ _The FINOS Regulation Innovation Special Interest Group (SIG) is a community of 
 #### Further Details
  - [https://github.com/finos/open-regtech-sig](https://github.com/finos/open-regtech-sig)
  - [https://github.com/finos/open-regtech-sig](https://github.com/finos/open-regtech-sig)
+<a name="Zenith"></a>
 ## Welcome to Zenith
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/zenith.svg" width="100px" />
@@ -285,6 +298,7 @@ _Create a space where expertise can be identified and implemented to help the fi
  - [https://github.com/finos/zenith](https://github.com/finos/zenith)
  - [https://zenith.finos.org](https://zenith.finos.org)
 # Active Projects
+<a name="FDC3"></a>
 ## FDC3 - Financial Desktop Connectivity and Collaboration Consortium
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/fdc3.svg" width="100px" />
@@ -329,6 +343,7 @@ _An open standard for the financial desktop._
  - [https://github.com/finos/FDC3](https://github.com/finos/FDC3)
  - [https://fdc3.finos.org](https://fdc3.finos.org)
  - [https://github.com/finos/fdc3-dotnet](https://github.com/finos/fdc3-dotnet)
+<a name="JupyterLab-Templates"></a>
 ## JupyterLab Templates
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/jupyterlab-templates.svg" width="100px" />
@@ -356,6 +371,7 @@ _Support for jupyter notebook templates in jupyterlab_
 > 
 #### Further Details
  - [https://github.com/finos/jupyterlab_templates](https://github.com/finos/jupyterlab_templates)
+<a name="MessageML-Utilities"></a>
 ## MessageML Utilities
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/messageml-utils.svg" width="100px" />
@@ -388,6 +404,7 @@ _MessageML is a markup language used by the Symphony Agent API for representing 
 #### Further Details
  - [https://github.com/finos/messageml-utils](https://github.com/finos/messageml-utils)
  - [https://docs.developers.symphony.com](https://docs.developers.symphony.com)
+<a name="Morphir"></a>
 ## Morphir
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/morphir.svg" width="100px" />
@@ -428,6 +445,7 @@ _A universal language for business and technology_
  - [https://github.com/finos/morphir-bosque](https://github.com/finos/morphir-bosque)
  - [https://github.com/finos/morphir-examples](https://github.com/finos/morphir-examples)
  - [https://github.com/finos/morphir-scala](https://github.com/finos/morphir-scala)
+<a name="OpenMAMA"></a>
 ## The Open Middleware Agnostic Messaging API
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/openmama.svg" width="100px" />
@@ -462,11 +480,12 @@ _OpenMAMA is an open source project that provides a high performance middleware 
  - [https://openmama.org](https://openmama.org)
  - [https://github.com/finos/openmama.github.io](https://github.com/finos/openmama.github.io)
  - [https://github.com/finos/openMAMA-testdata](https://github.com/finos/openMAMA-testdata)
+<a name="Perspective"></a>
 ## Perspective
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/perspective.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-9539-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-1241-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-107-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-9540-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-1241-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-107-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/issues)
 
 _A data visualization and analytics component, especially well-suited for large and/or streaming datasets._
 
@@ -504,6 +523,7 @@ interactive analytics and data visualization component,
 #### Further Details
  - [https://github.com/perspective-dev/perspective](https://github.com/perspective-dev/perspective)
  - [http://perspective-dev.github.io/](http://perspective-dev.github.io/)
+<a name="Regular-Table"></a>
 ## Regular Table
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/regular-table.svg" width="100px" />
@@ -543,6 +563,7 @@ _A regular <table> library, for async and virtual data models._
 > 
 #### Further Details
  - [https://github.com/finos/regular-table](https://github.com/finos/regular-table)
+<a name="REST-API-Specification"></a>
 ## symphony-api-spec
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-rest-api-spec.svg" width="100px" />
@@ -570,6 +591,7 @@ _Swagger definitions for Symphony LLC public REST API_
 #### Further Details
  - [https://github.com/finos/symphony-api-spec](https://github.com/finos/symphony-api-spec)
  - [https://github.com/finos/symphony-api-spec](https://github.com/finos/symphony-api-spec)
+<a name="Spring-Bot"></a>
 ## Spring Bot
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/springbot.svg" width="100px" />
@@ -604,6 +626,7 @@ _Spring Boot + Java Integration for Symphony/Teams Chat Platform Bots and Apps_
 #### Further Details
  - [https://github.com/finos/spring-bot](https://github.com/finos/spring-bot)
  - [https://springbot.finos.org](https://springbot.finos.org)
+<a name="Symphony-Electron"></a>
 ## SymphonyElectron
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-electron.svg" width="100px" />
@@ -642,6 +665,7 @@ _A desktop client for the Symphony Collaboration Platform built using Electron_
  - [https://github.com/finos/SwiftSearch](https://github.com/finos/SwiftSearch)
  - [https://github.com/finos/ScreenShareIndicatorFrame](https://github.com/finos/ScreenShareIndicatorFrame)
  - [https://github.com/finos/SymphonyWindowsHwndHelper](https://github.com/finos/SymphonyWindowsHwndHelper)
+<a name="Waltz"></a>
 ## Waltz
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/waltz.svg" width="100px" />
@@ -675,6 +699,7 @@ _Enterprise Information Service_
  - [https://github.com/finos/waltz](https://github.com/finos/waltz)
  - [https://waltz.finos.org](https://waltz.finos.org)
 # Incubating Projects
+<a name="Accessibility-Theme-Builder"></a>
 ## Accessibility Theme Builder
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/themebuilder.svg" width="100px" />
@@ -697,9 +722,16 @@ _DesignOps toolchain theme builder for accessibility inclusion using Atomic Desi
 > Accessibility compliance is difficult. All too often accessibility is addressed late in the development and testing cycle. What if systems were designed upfront with accessible inclusion as a design principle? What if the workflow between designers and developers produced accessible components before the assembling of applications?
 >... [_read more_](https://github.com/finos/a11y-theme-builder)
 > 
+#### Upcoming Meetings
+
+ - **A11y Theme Builder Project Meeting** - _Weekly on Fridays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=mp8og91gofbooj3srqq8683p8m_20251114T141500Z&title=A11y+Theme+Builder+Project+Meeting))
+
+[View On Calendar](https://calendar.finos.org)
+
 #### Further Details
  - [https://github.com/finos/a11y-theme-builder](https://github.com/finos/a11y-theme-builder)
  - [https://github.com/finos/a11y-theme-builder-sdk](https://github.com/finos/a11y-theme-builder-sdk)
+<a name="Backplane---FDC3-Desktop-Agent-Bridging"></a>
 ## Backplane   FDC3 Desktop Agent Bridging
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/backplane.svg" width="100px" />
@@ -731,11 +763,12 @@ _FDC3 Desktop Agent Bridge_
 #### Further Details
  - [https://github.com/finos/backplane](https://github.com/finos/backplane)
  - [https://backplane.finos.org/](https://backplane.finos.org/)
+<a name="Common-Architecture-Language-Model"></a>
 ## Architecture as Code
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/calm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-216-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-78-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-77-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:calm+subscribe@lists.finos.org)[![Chat On Slack](https://img.shields.io/badge/Slack-Join-orange?labelColor=eaebec&style=for-the-badge) ](https://app.slack.com/client/T01E7QRQH97/C085UHKL6SJ)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-216-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-78-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-78-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:calm+subscribe@lists.finos.org)[![Chat On Slack](https://img.shields.io/badge/Slack-Join-orange?labelColor=eaebec&style=for-the-badge) ](https://app.slack.com/client/T01E7QRQH97/C085UHKL6SJ)
 
 _"Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seamless maintenance of complex software architectures_
 
@@ -760,9 +793,17 @@ _"Architecture as Code" (AasC) aims to devise and manage software architecture v
 > architectures.
 >... [_read more_](https://github.com/finos/architecture-as-code)
 > 
+#### Upcoming Meetings
+
+ - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://zoom.us/j/95349776375))
+ - **Architecture as Code Working Group - DevOps Automation** - _Monthly on the fourth tuesday_ ([Join Meeting](https://zoom.us/j/94904595244))
+
+[View On Calendar](https://calendar.finos.org)
+
 #### Further Details
  - [https://github.com/finos/architecture-as-code](https://github.com/finos/architecture-as-code)
  - [https://calm.finos.org](https://calm.finos.org)
+<a name="Common-Cloud-Controls"></a>
 ## Common Cloud Controls
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/ccc.svg" width="100px" />
@@ -786,6 +827,12 @@ _FINOS Common Cloud Controls_
 > 
 #### Upcoming Meetings
 
+ - **CCC - Working Group: Communications / All Hands** - _Monthly on the third thursday_ ([Join Meeting](https://zoom.us/j/94416168360))
+ - **CCC - Working Group: Communications / All Hands** - _Monthly on the first thursday_ ([Join Meeting](https://zoom.us/j/94416168360?pwd=8aqZjc5zybCLidmgF80ayN4XUTIw91.1))
+ - **CCC - Working Group: Taxonomy** - _Monthly on the fourth thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=0pe7vrav35o95j4820ftr4qbvj_20251127T163000Z&title=CCC+-+Working+Group%3A+Taxonomy))
+ - **CCC Working Group: Compliant Financial Infrastructure** - _Monthly on the fourth thursday_ ([Join Meeting](https://zoom.us/j/99708793584?pwd=Zl27vbXvKmYod1KxL4Gbkbm6LfeDlN.1))
+ - **CCC- Working Group: Compliant Financial Infrastructure** - _Monthly on the third thursday_ ([Join Meeting](https://zoom.us/j/99708793584?pwd=Zl27vbXvKmYod1KxL4Gbkbm6LfeDlN.1))
+ - **CCC- Working Group: Taxonomy** - _Monthly on the second thursday_ ([Join Meeting](https://zoom.us/j/94109603410?pwd=IAahiaIrAbF6mXR2sXoE1HqGICElC7.1))
  - **FINOS Common Cloud Controls - Steering** - _Every 3 months on the second tuesday_ ([Join Meeting](https://zoom.us/j/93861901920))
 
 [View On Calendar](https://calendar.finos.org)
@@ -793,11 +840,12 @@ _FINOS Common Cloud Controls_
 #### Further Details
  - [https://github.com/finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
  - [https://ccc.finos.org](https://ccc.finos.org)
+<a name="Common-Domain-Model"></a>
 ## Common Domain Model (CDM)
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/cdm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-198-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-95-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-124-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-198-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-95-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-127-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/issues)
 
 _The CDM is a model for financial products, trades in those products, and the lifecycle events of those trades. It is an open source standard that aligns data, systems and processes and is available as code in multiple languages for easy implementation across technologies._
 
@@ -814,9 +862,24 @@ _The CDM is a model for financial products, trades in those products, and the li
 > The FINOS Common Domain Model (CDM) is a standardised, machine-readable and machine-executable blueprint for how financial products are traded and managed across the transaction lifecycle. It is represented as a domain model and distributed in open source.
 >... [_read more_](https://github.com/finos/common-domain-model)
 > 
+#### Upcoming Meetings
+
+ - ** CDM Technology Architecture Working Group** - _Monthly on the second thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=58a21bfk7k3k05jb9e6pihkn69_20251113T140000Z&title=+CDM+Technology+Architecture+Working+Group))
+ - **CDM Collateral Working Group** - _Monthly on the last tuesday_ ([Join Meeting](https://zoom.us/j/96084284579?pwd=QTJ3bTBrMURkWXA1S0owa1djaEVIUT09))
+ - **CDM Contribution Review Working Group** - _Monthly on the third tuesday_ ([Join Meeting](https://zoom.us/j/96436091087?pwd=TUZMYm1KdGt2YWtxdDVHY3BpQzh0QT09))
+ - **CDM Contribution Review Working Group** - _Monthly on the first tuesday_ ([Join Meeting](https://zoom.us/j/96436091087?pwd=TUZMYm1KdGt2YWtxdDVHY3BpQzh0QT09))
+ - **CDM Derivatives Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://zoom.us/j/94131415778?pwd=L1A2aUhoTEhoODdUZ0lrUkNLOXBiQT09))
+ - **CDM Physical Risk Working Group** - _Monthly on the second wednesday_ ([Join Meeting](https://zoom.us/j/98029183668?pwd=R9om40D0tRAVL5LaMasvD57Z8bbPBT.1))
+ - **CDM Smart Contract Taskforce ** - _Every 4 weeks_ ([Join Meeting](https://zoom.us/j/94814106469?pwd=g2hS8SmKV4m7aapNHy2kbbIMAiZqCU.1))
+ - **CDM Steering Working Group** - _Monthly on the second tuesday_ ([Join Meeting](https://zoom.us/j/93756205037?pwd=NFd1SUh1ZXdOdVNjQXdLVzZBbnpudz09))
+ - **CDM Tokenized Assets Working Group** - _Monthly on the third wednesday_ ([Join Meeting](https://zoom.us/j/96655082800?pwd=NaKW93vozi2KXxGk10JblGcJpQMspL.1))
+
+[View On Calendar](https://calendar.finos.org)
+
 #### Further Details
  - [https://github.com/finos/common-domain-model](https://github.com/finos/common-domain-model)
  - [https://github.com/finos/object-builder](https://github.com/finos/object-builder)
+<a name="Compliant-Financial-Infrastructure"></a>
 ## Compliant Financial Infrastructure
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/compliant-financial-infrastruture.svg" width="100px" />
@@ -860,6 +923,7 @@ _Compliant Financial Infrastructure accelerates the development, deployment and 
  - [https://github.com/finos/terraform-aws-cfi-redshift](https://github.com/finos/terraform-aws-cfi-redshift)
  - [https://github.com/finos/terraform-aws-cfi-sqs](https://github.com/finos/terraform-aws-cfi-sqs)
  - [https://github.com/finos/cfi-ansible-aws-rds](https://github.com/finos/cfi-ansible-aws-rds)
+<a name="Currency-Reference-Data"></a>
 ## Currency Reference Data
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/currency-reference-data.svg" width="100px" />
@@ -871,6 +935,7 @@ _Compliant Financial Infrastructure accelerates the development, deployment and 
 #### Further Details
  - [https://github.com/finos/curref-data](https://github.com/finos/curref-data)
  - [https://gitlab.com/finosfoundation/legend/security-reference-data/currencyrefdata](https://gitlab.com/finosfoundation/legend/security-reference-data/currencyrefdata)
+<a name="FDC3-Conformance-Framework"></a>
 ## FDC3 Conformance Framework
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/fdc3-conformance.svg" width="100px" />
@@ -894,6 +959,7 @@ _A framework for testing whether desktop containers implement the FDC3 standard_
 > 
 #### Further Details
  - [https://github.com/finos/FDC3-conformance-framework](https://github.com/finos/FDC3-conformance-framework)
+<a name="FDC3-Sail"></a>
 ## FDC3 Sail
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/sail.svg" width="100px" />
@@ -925,6 +991,7 @@ _Open implementation of the FDC3 standard using Electron and an integrated App D
 
 #### Further Details
  - [https://github.com/finos/FDC3-Sail](https://github.com/finos/FDC3-Sail)
+<a name="FINOS-Code-Scanning"></a>
 ## FINOS Code Scanning
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/finos-code-scanning.svg" width="100px" />
@@ -974,6 +1041,7 @@ _How to protect FINOS hosted projects from security threats and license complian
 > 
 #### Further Details
  - [https://github.com/finos/code-scanning](https://github.com/finos/code-scanning)
+<a name="Git-Proxy"></a>
 ## Git Proxy
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/git-proxy.svg" width="100px" />
@@ -1013,6 +1081,7 @@ _Deploy custom push protections and policies on top of Git_
 #### Further Details
  - [https://github.com/finos/git-proxy](https://github.com/finos/git-proxy)
  - [https://git-proxy.finos.org](https://git-proxy.finos.org)
+<a name="High-Throughput-Compute-Grid"></a>
 ## HTC-Grid
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/htc-grid.svg" width="100px" />
@@ -1034,6 +1103,7 @@ _Deploy custom push protections and policies on top of Git_
 #### Further Details
  - [https://github.com/finos/htc-grid](https://github.com/finos/htc-grid)
  - [https://finos.github.io/htc-grid/](https://finos.github.io/htc-grid/)
+<a name="kdb+"></a>
 ## FINOS kdb+ Project
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/finos.svg" width="100px" />
@@ -1059,10 +1129,17 @@ _kdb+ Working Group from FINOS Data Technologies program_
 > 6. Create a new Pull Request
 >... [_read more_](https://github.com/finos/kdb)
 > 
+#### Upcoming Meetings
+
+ - **FINOS KDB Project Call** - _Monthly on the second monday_ ([Join Meeting](https://zoom.us/j/94523415326?pwd=NkJDaUtUUlZTcHVwcUJHdG0yRFJUdz09))
+
+[View On Calendar](https://calendar.finos.org)
+
 #### Further Details
  - [https://github.com/finos/kdb](https://github.com/finos/kdb)
  - [https://github.com/finos/kdb-studio](https://github.com/finos/kdb-studio)
  - [https://github.com/finos/qPython](https://github.com/finos/qPython)
+<a name="Legend"></a>
 ## Legend
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/legend.svg" width="100px" />
@@ -1110,6 +1187,7 @@ _The Legend project_
  - [https://github.com/finos/legend-juju-studio-operator](https://github.com/finos/legend-juju-studio-operator)
  - [https://github.com/finos/legend-community-delta](https://github.com/finos/legend-community-delta)
  - [https://github.com/finos/pylegend](https://github.com/finos/pylegend)
+<a name="Open-Reg-Tech-US-LCR"></a>
 ## Open Reg Tech US LCR
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/open-reg-tech-us-lcr.svg" width="100px" />
@@ -1134,6 +1212,7 @@ _Open Reg Tech: US LCR_
 #### Further Details
  - [https://github.com/finos/open-reg-tech-us-lcr](https://github.com/finos/open-reg-tech-us-lcr)
  - [https://github.com/finos/open-reg-tech-us-lcr](https://github.com/finos/open-reg-tech-us-lcr)
+<a name="Security-Reference-Data"></a>
 ## Securities Reference Data Project
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/security-reference-data.svg" width="100px" />
@@ -1157,6 +1236,7 @@ _Security Reference Data project_
 #### Further Details
  - [https://github.com/finos/secref-data](https://github.com/finos/secref-data)
  - [https://github.com/finos/secref-data](https://github.com/finos/secref-data)
+<a name="Symphony-BDK-Java"></a>
 ## Symphony BDK for Java
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-bdk-java.svg" width="100px" />
@@ -1187,6 +1267,7 @@ _The Symphony BDK (Bot Developer Kit) for Java helps you to create production-gr
 #### Further Details
  - [https://github.com/finos/symphony-bdk-java](https://github.com/finos/symphony-bdk-java)
  - [https://symphony-bdk-java.finos.org](https://symphony-bdk-java.finos.org)
+<a name="Symphony-BDK-Python"></a>
 ## Symphony BDK for Python
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-bdk-python.svg" width="100px" />
@@ -1215,6 +1296,7 @@ _Symphony Python Bot Development Kit (BDK)_
 #### Further Details
  - [https://github.com/finos/symphony-bdk-python](https://github.com/finos/symphony-bdk-python)
  - [https://symphony-bdk-python.finos.org/](https://symphony-bdk-python.finos.org/)
+<a name="Symphony-Generator"></a>
 ## Symphony Generator
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-generator.svg" width="100px" />
@@ -1242,6 +1324,7 @@ _Yeoman based generator for Symphony Bots and Applications_
 #### Further Details
  - [https://github.com/finos/generator-symphony](https://github.com/finos/generator-symphony)
  - [https://github.com/finos/generator-symphony](https://github.com/finos/generator-symphony)
+<a name="Symphony-Media-Bridge"></a>
 ## Symphony Media Bridge
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-media-bridge.svg" width="100px" />
@@ -1264,6 +1347,7 @@ _The Symphony Media Bridge (SMB) is a media server application that handles audi
 > 
 #### Further Details
  - [https://github.com/finos/SymphonyMediaBridge](https://github.com/finos/SymphonyMediaBridge)
+<a name="TimeBase-CE"></a>
 ## TimeBase CE
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/timebase-ce.svg" width="100px" />
@@ -1277,6 +1361,7 @@ _High performance time series database_
 #### Further Details
  - [https://github.com/finos/TimeBase-CE](https://github.com/finos/TimeBase-CE)
  - [https://timebase.info](https://timebase.info)
+<a name="TRAC-d.a.p."></a>
 ## TRAC D.a.p.
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/tracdap.svg" width="100px" />
@@ -1301,11 +1386,12 @@ _A next-generation data and analytics platform for use in highly regulated envir
 > 
 #### Further Details
  - [https://github.com/finos/tracdap](https://github.com/finos/tracdap)
+<a name="TraderX"></a>
 ## TraderX
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/traderx.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-87-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/traderX/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-104-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/traderX)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-26-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/traderX/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-87-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/traderX/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-105-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/traderX)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-26-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/traderX/issues)
 
 [![Topic: finos-hackathon-bmo](https://img.shields.io/badge/finos%20hackathon%20bmo-fafbfc)](https://github.com/topics/finos-hackathon-bmo) 
 
@@ -1334,6 +1420,7 @@ _A next-generation data and analytics platform for use in highly regulated envir
 #### Further Details
  - [https://github.com/finos/traderX](https://github.com/finos/traderX)
  - [https://demo.traderx.finos.org/](https://demo.traderx.finos.org/)
+<a name="VUU"></a>
 ## Vuu
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/vuu.svg" width="100px" />
