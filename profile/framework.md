@@ -250,7 +250,7 @@ _A universal language for business and technology_
 > 
 #### Upcoming Meetings
 
- - **FINOS Morphir Project Meeting** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://zoom.us/j/99313804465))
+ - **FINOS Morphir Project Meeting** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=6tarlrki7fdodg4n0hek3vfimr_20251113T160000Z&title=FINOS+Morphir+Project+Meeting))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -269,7 +269,7 @@ _A universal language for business and technology_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/perspective.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-9540-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-1241-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-107-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-9541-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-1241-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-107-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/issues)
 
 _A data visualization and analytics component, especially well-suited for large and/or streaming datasets._
 
@@ -447,7 +447,7 @@ _A next-generation data and analytics platform for use in highly regulated envir
 > 
 #### Upcoming Meetings
 
- - **TraderX - Monthly** - _Monthly on the fourth friday_ ([Join Meeting](https://zoom.us/j/96264933811))
+ - **TraderX - Monthly** - _Monthly on the fourth friday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3h8b1ovp0half18sp0qah5pqii_20251128T130000Z&title=TraderX+-+Monthly))
 
 [View On Calendar](https://calendar.finos.org)
 

@@ -28,9 +28,9 @@ _The AI Readiness SIG provides a space to address AI-related challenges that are
 > 
 #### Upcoming Meetings
 
- - **AI Governance Framework Working Session** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://zoom.us/j/96783320878?pwd=AhCcHslTfeIeV82IeII1rHQUTYtoce.1))
- - **AI Readiness SIG** - _Every 2 weeks on Tuesdays_ ([Join Meeting](https://zoom.us/j/92957783050))
- - **Applied GenAI bi-weekly call** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://zoom.us/j/93805835465?pwd=Ud1gmtTEHpByLoK7ttOAFtX0EtCuqG.1))
+ - **AI Governance Framework Working Session** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3ofjtrl4kk0anr4abh7lf3bkmn_20251119T150000Z&title=AI+Governance+Framework+Working+Session))
+ - **AI Readiness SIG** - _Every 2 weeks on Tuesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=6h9hpovttur3kn9iprh8106i59_20260106T160000Z&title=AI+Readiness+SIG))
+ - **Applied GenAI bi-weekly call** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=kanh94lc53abd2k42bokberhvl_20251120T180000Z&title=Applied+GenAI+bi-weekly+call))
  - **Open Financial LLM Leaderboard (OFLL) Working Session** - _Weekly on Tuesdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/97499954668?password=dbeea8fb-9611-4d7b-a0f4-366b36207a2b&amp;invite=true))
 
 [View On Calendar](https://calendar.finos.org)
@@ -114,8 +114,8 @@ _Accelerate financial services firms’ journeys toward open source readiness, b
 > 
 #### Upcoming Meetings
 
- - **Open Source Readiness SIG** - _Monthly on the first wednesday_ ([Join Meeting](https://zoom.us/j/93808780892))
- - **Open Source Readiness SIG - Checkpoint Session** - _Monthly on the third wednesday_ ([Join Meeting](https://zoom.us/j/93808780892))
+ - **Open Source Readiness SIG** - _Monthly on the first wednesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=4ceeknoiieiu0g9k6rmf4t3n44_20260304T150000Z&title=Open+Source+Readiness+SIG))
+ - **Open Source Readiness SIG - Checkpoint Session** - _Monthly on the third wednesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3oeu8ev0okjen2i8v5hstg5abt_20251119T140000Z&title=Open+Source+Readiness+SIG+-+Checkpoint+Session))
 
 [View On Calendar](https://calendar.finos.org)
 

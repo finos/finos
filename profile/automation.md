@@ -38,8 +38,8 @@ _"Architecture as Code" (AasC) aims to devise and manage software architecture v
 > 
 #### Upcoming Meetings
 
- - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://zoom.us/j/95349776375))
- - **Architecture as Code Working Group - DevOps Automation** - _Monthly on the fourth tuesday_ ([Join Meeting](https://zoom.us/j/94904595244))
+ - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=31nngaucj5sprgcbdpj9spfe4j_20251113T153000Z&title=Architecture+as+Code+Office+Hours))
+ - **Architecture as Code Working Group - DevOps Automation** - _Monthly on the fourth tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=347pecaqmofn0m0lcqeffubcta_20260127T160000Z&title=Architecture+as+Code+Working+Group+-+DevOps+Automation))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -70,10 +70,10 @@ _Provide a continuous compliance and assurance approach to DevOps that mutually 
 > 
 #### Upcoming Meetings
 
- - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://zoom.us/j/95349776375))
- - **Architecture as Code Working Group - DevOps Automation** - _Monthly on the fourth tuesday_ ([Join Meeting](https://zoom.us/j/94904595244))
- - **Evolution at Scale - DevOps Automation Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://zoom.us/j/94904595244?pwd=djIxWjlrenBGNWZmSGZ3cWJhamFTZz09))
- - **FINOS DevOps Automation - Special Interest Group** - _Monthly on the third thursday_ ([Join Meeting](https://zoom.us/j/94904595244))
+ - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=31nngaucj5sprgcbdpj9spfe4j_20251113T153000Z&title=Architecture+as+Code+Office+Hours))
+ - **Architecture as Code Working Group - DevOps Automation** - _Monthly on the fourth tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=347pecaqmofn0m0lcqeffubcta_20260127T160000Z&title=Architecture+as+Code+Working+Group+-+DevOps+Automation))
+ - **Evolution at Scale - DevOps Automation Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=34ti120a8thi3e1r26c2cq80dc_20251119T170000Z&title=Evolution+at+Scale+-+DevOps+Automation+Working+Group))
+ - **FINOS DevOps Automation - Special Interest Group** - _Monthly on the third thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=2n3m2a6lm52dvvffh4jo8t10ib_20251120T170000Z&title=FINOS+DevOps+Automation+-+Special+Interest+Group))
  - **SDLC Governance Framework Working Group - Dev Ops Automation** - _Every 2 weeks on Mondays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/96292319760?password=a023f03e-c2aa-46fb-aae3-5d93c9d9664e&invite=true))
 
 [View On Calendar](https://calendar.finos.org)

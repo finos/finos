@@ -40,8 +40,8 @@ _"Architecture as Code" (AasC) aims to devise and manage software architecture v
 > 
 #### Upcoming Meetings
 
- - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://zoom.us/j/95349776375))
- - **Architecture as Code Working Group - DevOps Automation** - _Monthly on the fourth tuesday_ ([Join Meeting](https://zoom.us/j/94904595244))
+ - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=31nngaucj5sprgcbdpj9spfe4j_20251113T153000Z&title=Architecture+as+Code+Office+Hours))
+ - **Architecture as Code Working Group - DevOps Automation** - _Monthly on the fourth tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=347pecaqmofn0m0lcqeffubcta_20260127T160000Z&title=Architecture+as+Code+Working+Group+-+DevOps+Automation))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -72,13 +72,13 @@ _FINOS Common Cloud Controls_
 > 
 #### Upcoming Meetings
 
- - **CCC - Working Group: Communications / All Hands** - _Monthly on the third thursday_ ([Join Meeting](https://zoom.us/j/94416168360))
- - **CCC - Working Group: Communications / All Hands** - _Monthly on the first thursday_ ([Join Meeting](https://zoom.us/j/94416168360?pwd=8aqZjc5zybCLidmgF80ayN4XUTIw91.1))
+ - **CCC - Working Group: Communications / All Hands** - _Monthly on the third thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=00r84f8c81jvdvh5mop0vjkohg_20251120T170000Z&title=CCC+-+Working+Group%3A+Communications+%2F+All+Hands))
+ - **CCC - Working Group: Communications / All Hands** - _Monthly on the first thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=5kgpfuusgahubnm16f5qehdkuc_20251204T170000Z&title=CCC+-+Working+Group%3A+Communications+%2F+All+Hands))
  - **CCC - Working Group: Taxonomy** - _Monthly on the fourth thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=0pe7vrav35o95j4820ftr4qbvj_20251127T163000Z&title=CCC+-+Working+Group%3A+Taxonomy))
- - **CCC Working Group: Compliant Financial Infrastructure** - _Monthly on the fourth thursday_ ([Join Meeting](https://zoom.us/j/99708793584?pwd=Zl27vbXvKmYod1KxL4Gbkbm6LfeDlN.1))
- - **CCC- Working Group: Compliant Financial Infrastructure** - _Monthly on the third thursday_ ([Join Meeting](https://zoom.us/j/99708793584?pwd=Zl27vbXvKmYod1KxL4Gbkbm6LfeDlN.1))
- - **CCC- Working Group: Taxonomy** - _Monthly on the second thursday_ ([Join Meeting](https://zoom.us/j/94109603410?pwd=IAahiaIrAbF6mXR2sXoE1HqGICElC7.1))
- - **FINOS Common Cloud Controls - Steering** - _Every 3 months on the second tuesday_ ([Join Meeting](https://zoom.us/j/93861901920))
+ - **CCC Working Group: Compliant Financial Infrastructure** - _Monthly on the fourth thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=f962t9fnmorifbu5mhuprr63er_20251127T170000Z&title=CCC+Working+Group%3A+Compliant+Financial+Infrastructure))
+ - **CCC- Working Group: Compliant Financial Infrastructure** - _Monthly on the third thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=5i1l8f19olh61s3gdner20l19q_20251120T110000Z&title=CCC-+Working+Group%3A+Compliant+Financial+Infrastructure))
+ - **CCC- Working Group: Taxonomy** - _Monthly on the second thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=0063ggdm7pjht99idpjj8pne2h_20260108T163000Z&title=CCC-+Working+Group%3A+Taxonomy))
+ - **FINOS Common Cloud Controls - Steering** - _Every 3 months on the second tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=268ol7k51uvff0etmkmv327qv9_20260310T130000Z&title=FINOS+Common+Cloud+Controls+-+Steering))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -111,8 +111,8 @@ _Compliant Financial Infrastructure accelerates the development, deployment and 
 > 
 #### Upcoming Meetings
 
- - **CCC Working Group: Compliant Financial Infrastructure** - _Monthly on the fourth thursday_ ([Join Meeting](https://zoom.us/j/99708793584?pwd=Zl27vbXvKmYod1KxL4Gbkbm6LfeDlN.1))
- - **CCC- Working Group: Compliant Financial Infrastructure** - _Monthly on the third thursday_ ([Join Meeting](https://zoom.us/j/99708793584?pwd=Zl27vbXvKmYod1KxL4Gbkbm6LfeDlN.1))
+ - **CCC Working Group: Compliant Financial Infrastructure** - _Monthly on the fourth thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=f962t9fnmorifbu5mhuprr63er_20251127T170000Z&title=CCC+Working+Group%3A+Compliant+Financial+Infrastructure))
+ - **CCC- Working Group: Compliant Financial Infrastructure** - _Monthly on the third thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=5i1l8f19olh61s3gdner20l19q_20251120T110000Z&title=CCC-+Working+Group%3A+Compliant+Financial+Infrastructure))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -153,10 +153,10 @@ _Provide a continuous compliance and assurance approach to DevOps that mutually 
 > 
 #### Upcoming Meetings
 
- - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://zoom.us/j/95349776375))
- - **Architecture as Code Working Group - DevOps Automation** - _Monthly on the fourth tuesday_ ([Join Meeting](https://zoom.us/j/94904595244))
- - **Evolution at Scale - DevOps Automation Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://zoom.us/j/94904595244?pwd=djIxWjlrenBGNWZmSGZ3cWJhamFTZz09))
- - **FINOS DevOps Automation - Special Interest Group** - _Monthly on the third thursday_ ([Join Meeting](https://zoom.us/j/94904595244))
+ - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=31nngaucj5sprgcbdpj9spfe4j_20251113T153000Z&title=Architecture+as+Code+Office+Hours))
+ - **Architecture as Code Working Group - DevOps Automation** - _Monthly on the fourth tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=347pecaqmofn0m0lcqeffubcta_20260127T160000Z&title=Architecture+as+Code+Working+Group+-+DevOps+Automation))
+ - **Evolution at Scale - DevOps Automation Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=34ti120a8thi3e1r26c2cq80dc_20251119T170000Z&title=Evolution+at+Scale+-+DevOps+Automation+Working+Group))
+ - **FINOS DevOps Automation - Special Interest Group** - _Monthly on the third thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=2n3m2a6lm52dvvffh4jo8t10ib_20251120T170000Z&title=FINOS+DevOps+Automation+-+Special+Interest+Group))
  - **SDLC Governance Framework Working Group - Dev Ops Automation** - _Every 2 weeks on Mondays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/96292319760?password=a023f03e-c2aa-46fb-aae3-5d93c9d9664e&invite=true))
 
 [View On Calendar](https://calendar.finos.org)

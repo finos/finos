@@ -35,14 +35,14 @@ _The CDM is a model for financial products, trades in those products, and the li
 #### Upcoming Meetings
 
  - ** CDM Technology Architecture Working Group** - _Monthly on the second thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=58a21bfk7k3k05jb9e6pihkn69_20251113T140000Z&title=+CDM+Technology+Architecture+Working+Group))
- - **CDM Collateral Working Group** - _Monthly on the last tuesday_ ([Join Meeting](https://zoom.us/j/96084284579?pwd=QTJ3bTBrMURkWXA1S0owa1djaEVIUT09))
- - **CDM Contribution Review Working Group** - _Monthly on the third tuesday_ ([Join Meeting](https://zoom.us/j/96436091087?pwd=TUZMYm1KdGt2YWtxdDVHY3BpQzh0QT09))
- - **CDM Contribution Review Working Group** - _Monthly on the first tuesday_ ([Join Meeting](https://zoom.us/j/96436091087?pwd=TUZMYm1KdGt2YWtxdDVHY3BpQzh0QT09))
- - **CDM Derivatives Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://zoom.us/j/94131415778?pwd=L1A2aUhoTEhoODdUZ0lrUkNLOXBiQT09))
- - **CDM Physical Risk Working Group** - _Monthly on the second wednesday_ ([Join Meeting](https://zoom.us/j/98029183668?pwd=R9om40D0tRAVL5LaMasvD57Z8bbPBT.1))
- - **CDM Smart Contract Taskforce ** - _Every 4 weeks_ ([Join Meeting](https://zoom.us/j/94814106469?pwd=g2hS8SmKV4m7aapNHy2kbbIMAiZqCU.1))
- - **CDM Steering Working Group** - _Monthly on the second tuesday_ ([Join Meeting](https://zoom.us/j/93756205037?pwd=NFd1SUh1ZXdOdVNjQXdLVzZBbnpudz09))
- - **CDM Tokenized Assets Working Group** - _Monthly on the third wednesday_ ([Join Meeting](https://zoom.us/j/96655082800?pwd=NaKW93vozi2KXxGk10JblGcJpQMspL.1))
+ - **CDM Collateral Working Group** - _Monthly on the last tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=dbqcnqhp9q0pkidaig9gopsboc_20251125T150000Z&title=CDM+Collateral+Working+Group))
+ - **CDM Contribution Review Working Group** - _Monthly on the third tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=69q8mptjjadgu6mnstpt0nbncm_20251118T150000Z&title=CDM+Contribution+Review+Working+Group))
+ - **CDM Contribution Review Working Group** - _Monthly on the first tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3rj6nqfgommkqpk53s8rgmsfen_20251202T150000Z&title=CDM+Contribution+Review+Working+Group))
+ - **CDM Derivatives Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=8cho1bqeil5tr5fg1gdckgts4k_20251119T163000Z&title=CDM+Derivatives+Working+Group))
+ - **CDM Physical Risk Working Group** - _Monthly on the second wednesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3plclrc99ir73c5j83v14kqgoi_20251112T140000Z&title=CDM+Physical+Risk+Working+Group))
+ - **CDM Smart Contract Taskforce ** - _Every 4 weeks_ ([Join Meeting](https://calendar.finos.org/signup?eventId=01d6g4br02jqa4okt20hlgmikh_20251205T143000Z&title=CDM+Smart+Contract+Taskforce+))
+ - **CDM Steering Working Group** - _Monthly on the second tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3fus5fjqie03nvtphf81gi4j5o_20251111T160000Z&title=CDM+Steering+Working+Group))
+ - **CDM Tokenized Assets Working Group** - _Monthly on the third wednesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=ra1qoghbg8q9aj4ho3tlmkodna_20251119T150000Z&title=CDM+Tokenized+Assets+Working+Group))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -101,7 +101,7 @@ _kdb+ Working Group from FINOS Data Technologies program_
 > 
 #### Upcoming Meetings
 
- - **FINOS KDB Project Call** - _Monthly on the second monday_ ([Join Meeting](https://zoom.us/j/94523415326?pwd=NkJDaUtUUlZTcHVwcUJHdG0yRFJUdz09))
+ - **FINOS KDB Project Call** - _Monthly on the second monday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=10vqvi1geoseds4p73l2u9gmig_20251110T143000Z&title=FINOS+KDB+Project+Call))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -184,7 +184,7 @@ _A universal language for business and technology_
 > 
 #### Upcoming Meetings
 
- - **FINOS Morphir Project Meeting** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://zoom.us/j/99313804465))
+ - **FINOS Morphir Project Meeting** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=6tarlrki7fdodg4n0hek3vfimr_20251113T160000Z&title=FINOS+Morphir+Project+Meeting))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -299,7 +299,7 @@ _A next-generation data and analytics platform for use in highly regulated envir
 > 
 #### Upcoming Meetings
 
- - **TraderX - Monthly** - _Monthly on the fourth friday_ ([Join Meeting](https://zoom.us/j/96264933811))
+ - **TraderX - Monthly** - _Monthly on the fourth friday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3h8b1ovp0half18sp0qah5pqii_20251128T130000Z&title=TraderX+-+Monthly))
 
 [View On Calendar](https://calendar.finos.org)
 

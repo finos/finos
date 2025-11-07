@@ -86,9 +86,9 @@ _The AI Readiness SIG provides a space to address AI-related challenges that are
 > 
 #### Upcoming Meetings
 
- - **AI Governance Framework Working Session** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://zoom.us/j/96783320878?pwd=AhCcHslTfeIeV82IeII1rHQUTYtoce.1))
- - **AI Readiness SIG** - _Every 2 weeks on Tuesdays_ ([Join Meeting](https://zoom.us/j/92957783050))
- - **Applied GenAI bi-weekly call** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://zoom.us/j/93805835465?pwd=Ud1gmtTEHpByLoK7ttOAFtX0EtCuqG.1))
+ - **AI Governance Framework Working Session** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3ofjtrl4kk0anr4abh7lf3bkmn_20251119T150000Z&title=AI+Governance+Framework+Working+Session))
+ - **AI Readiness SIG** - _Every 2 weeks on Tuesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=6h9hpovttur3kn9iprh8106i59_20260106T160000Z&title=AI+Readiness+SIG))
+ - **Applied GenAI bi-weekly call** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=kanh94lc53abd2k42bokberhvl_20251120T180000Z&title=Applied+GenAI+bi-weekly+call))
  - **Open Financial LLM Leaderboard (OFLL) Working Session** - _Weekly on Tuesdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/97499954668?password=dbeea8fb-9611-4d7b-a0f4-366b36207a2b&amp;invite=true))
 
 [View On Calendar](https://calendar.finos.org)
@@ -120,10 +120,10 @@ _Provide a continuous compliance and assurance approach to DevOps that mutually 
 > 
 #### Upcoming Meetings
 
- - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://zoom.us/j/95349776375))
- - **Architecture as Code Working Group - DevOps Automation** - _Monthly on the fourth tuesday_ ([Join Meeting](https://zoom.us/j/94904595244))
- - **Evolution at Scale - DevOps Automation Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://zoom.us/j/94904595244?pwd=djIxWjlrenBGNWZmSGZ3cWJhamFTZz09))
- - **FINOS DevOps Automation - Special Interest Group** - _Monthly on the third thursday_ ([Join Meeting](https://zoom.us/j/94904595244))
+ - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=31nngaucj5sprgcbdpj9spfe4j_20251113T153000Z&title=Architecture+as+Code+Office+Hours))
+ - **Architecture as Code Working Group - DevOps Automation** - _Monthly on the fourth tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=347pecaqmofn0m0lcqeffubcta_20260127T160000Z&title=Architecture+as+Code+Working+Group+-+DevOps+Automation))
+ - **Evolution at Scale - DevOps Automation Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=34ti120a8thi3e1r26c2cq80dc_20251119T170000Z&title=Evolution+at+Scale+-+DevOps+Automation+Working+Group))
+ - **FINOS DevOps Automation - Special Interest Group** - _Monthly on the third thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=2n3m2a6lm52dvvffh4jo8t10ib_20251120T170000Z&title=FINOS+DevOps+Automation+-+Special+Interest+Group))
  - **SDLC Governance Framework Working Group - Dev Ops Automation** - _Every 2 weeks on Mondays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/96292319760?password=a023f03e-c2aa-46fb-aae3-5d93c9d9664e&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
@@ -232,8 +232,8 @@ _Accelerate financial services firms’ journeys toward open source readiness, b
 > 
 #### Upcoming Meetings
 
- - **Open Source Readiness SIG** - _Monthly on the first wednesday_ ([Join Meeting](https://zoom.us/j/93808780892))
- - **Open Source Readiness SIG - Checkpoint Session** - _Monthly on the third wednesday_ ([Join Meeting](https://zoom.us/j/93808780892))
+ - **Open Source Readiness SIG** - _Monthly on the first wednesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=4ceeknoiieiu0g9k6rmf4t3n44_20260304T150000Z&title=Open+Source+Readiness+SIG))
+ - **Open Source Readiness SIG - Checkpoint Session** - _Monthly on the third wednesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3oeu8ev0okjen2i8v5hstg5abt_20251119T140000Z&title=Open+Source+Readiness+SIG+-+Checkpoint+Session))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -289,8 +289,8 @@ _Create a space where expertise can be identified and implemented to help the fi
 > 
 #### Upcoming Meetings
 
- - **Zenith - FINOS Emerging Technologies SIG** - _Monthly on the fourth thursday_ ([Join Meeting](https://zoom.us/j/98538837792?pwd=ZHg3QVVnaCtOT0tEZSs5c0hrZTg1dz09))
- - **Zenith Brain Trust - FINOS Emerging Technologies SIG** - _Monthly on the second thursday_ ([Join Meeting](https://zoom.us/j/98538837792?pwd=ZHg3QVVnaCtOT0tEZSs5c0hrZTg1dz09))
+ - **Zenith - FINOS Emerging Technologies SIG** - _Monthly on the fourth thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=1jmgr62fjls1gplbq21r0el0f0_20251127T150000Z&title=Zenith+-+FINOS+Emerging+Technologies+SIG))
+ - **Zenith Brain Trust - FINOS Emerging Technologies SIG** - _Monthly on the second thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3s0i5mb312s7rmlei7stvcbpg8_20251113T150000Z&title=Zenith+Brain+Trust+-+FINOS+Emerging+Technologies+SIG))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -431,7 +431,7 @@ _A universal language for business and technology_
 > 
 #### Upcoming Meetings
 
- - **FINOS Morphir Project Meeting** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://zoom.us/j/99313804465))
+ - **FINOS Morphir Project Meeting** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=6tarlrki7fdodg4n0hek3vfimr_20251113T160000Z&title=FINOS+Morphir+Project+Meeting))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -485,7 +485,7 @@ _OpenMAMA is an open source project that provides a high performance middleware 
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/perspective.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-9540-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-1241-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-107-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-9541-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-1241-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-107-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/issues)
 
 _A data visualization and analytics component, especially well-suited for large and/or streaming datasets._
 
@@ -795,8 +795,8 @@ _"Architecture as Code" (AasC) aims to devise and manage software architecture v
 > 
 #### Upcoming Meetings
 
- - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://zoom.us/j/95349776375))
- - **Architecture as Code Working Group - DevOps Automation** - _Monthly on the fourth tuesday_ ([Join Meeting](https://zoom.us/j/94904595244))
+ - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=31nngaucj5sprgcbdpj9spfe4j_20251113T153000Z&title=Architecture+as+Code+Office+Hours))
+ - **Architecture as Code Working Group - DevOps Automation** - _Monthly on the fourth tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=347pecaqmofn0m0lcqeffubcta_20260127T160000Z&title=Architecture+as+Code+Working+Group+-+DevOps+Automation))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -827,13 +827,13 @@ _FINOS Common Cloud Controls_
 > 
 #### Upcoming Meetings
 
- - **CCC - Working Group: Communications / All Hands** - _Monthly on the third thursday_ ([Join Meeting](https://zoom.us/j/94416168360))
- - **CCC - Working Group: Communications / All Hands** - _Monthly on the first thursday_ ([Join Meeting](https://zoom.us/j/94416168360?pwd=8aqZjc5zybCLidmgF80ayN4XUTIw91.1))
+ - **CCC - Working Group: Communications / All Hands** - _Monthly on the third thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=00r84f8c81jvdvh5mop0vjkohg_20251120T170000Z&title=CCC+-+Working+Group%3A+Communications+%2F+All+Hands))
+ - **CCC - Working Group: Communications / All Hands** - _Monthly on the first thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=5kgpfuusgahubnm16f5qehdkuc_20251204T170000Z&title=CCC+-+Working+Group%3A+Communications+%2F+All+Hands))
  - **CCC - Working Group: Taxonomy** - _Monthly on the fourth thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=0pe7vrav35o95j4820ftr4qbvj_20251127T163000Z&title=CCC+-+Working+Group%3A+Taxonomy))
- - **CCC Working Group: Compliant Financial Infrastructure** - _Monthly on the fourth thursday_ ([Join Meeting](https://zoom.us/j/99708793584?pwd=Zl27vbXvKmYod1KxL4Gbkbm6LfeDlN.1))
- - **CCC- Working Group: Compliant Financial Infrastructure** - _Monthly on the third thursday_ ([Join Meeting](https://zoom.us/j/99708793584?pwd=Zl27vbXvKmYod1KxL4Gbkbm6LfeDlN.1))
- - **CCC- Working Group: Taxonomy** - _Monthly on the second thursday_ ([Join Meeting](https://zoom.us/j/94109603410?pwd=IAahiaIrAbF6mXR2sXoE1HqGICElC7.1))
- - **FINOS Common Cloud Controls - Steering** - _Every 3 months on the second tuesday_ ([Join Meeting](https://zoom.us/j/93861901920))
+ - **CCC Working Group: Compliant Financial Infrastructure** - _Monthly on the fourth thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=f962t9fnmorifbu5mhuprr63er_20251127T170000Z&title=CCC+Working+Group%3A+Compliant+Financial+Infrastructure))
+ - **CCC- Working Group: Compliant Financial Infrastructure** - _Monthly on the third thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=5i1l8f19olh61s3gdner20l19q_20251120T110000Z&title=CCC-+Working+Group%3A+Compliant+Financial+Infrastructure))
+ - **CCC- Working Group: Taxonomy** - _Monthly on the second thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=0063ggdm7pjht99idpjj8pne2h_20260108T163000Z&title=CCC-+Working+Group%3A+Taxonomy))
+ - **FINOS Common Cloud Controls - Steering** - _Every 3 months on the second tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=268ol7k51uvff0etmkmv327qv9_20260310T130000Z&title=FINOS+Common+Cloud+Controls+-+Steering))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -865,14 +865,14 @@ _The CDM is a model for financial products, trades in those products, and the li
 #### Upcoming Meetings
 
  - ** CDM Technology Architecture Working Group** - _Monthly on the second thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=58a21bfk7k3k05jb9e6pihkn69_20251113T140000Z&title=+CDM+Technology+Architecture+Working+Group))
- - **CDM Collateral Working Group** - _Monthly on the last tuesday_ ([Join Meeting](https://zoom.us/j/96084284579?pwd=QTJ3bTBrMURkWXA1S0owa1djaEVIUT09))
- - **CDM Contribution Review Working Group** - _Monthly on the third tuesday_ ([Join Meeting](https://zoom.us/j/96436091087?pwd=TUZMYm1KdGt2YWtxdDVHY3BpQzh0QT09))
- - **CDM Contribution Review Working Group** - _Monthly on the first tuesday_ ([Join Meeting](https://zoom.us/j/96436091087?pwd=TUZMYm1KdGt2YWtxdDVHY3BpQzh0QT09))
- - **CDM Derivatives Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://zoom.us/j/94131415778?pwd=L1A2aUhoTEhoODdUZ0lrUkNLOXBiQT09))
- - **CDM Physical Risk Working Group** - _Monthly on the second wednesday_ ([Join Meeting](https://zoom.us/j/98029183668?pwd=R9om40D0tRAVL5LaMasvD57Z8bbPBT.1))
- - **CDM Smart Contract Taskforce ** - _Every 4 weeks_ ([Join Meeting](https://zoom.us/j/94814106469?pwd=g2hS8SmKV4m7aapNHy2kbbIMAiZqCU.1))
- - **CDM Steering Working Group** - _Monthly on the second tuesday_ ([Join Meeting](https://zoom.us/j/93756205037?pwd=NFd1SUh1ZXdOdVNjQXdLVzZBbnpudz09))
- - **CDM Tokenized Assets Working Group** - _Monthly on the third wednesday_ ([Join Meeting](https://zoom.us/j/96655082800?pwd=NaKW93vozi2KXxGk10JblGcJpQMspL.1))
+ - **CDM Collateral Working Group** - _Monthly on the last tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=dbqcnqhp9q0pkidaig9gopsboc_20251125T150000Z&title=CDM+Collateral+Working+Group))
+ - **CDM Contribution Review Working Group** - _Monthly on the third tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=69q8mptjjadgu6mnstpt0nbncm_20251118T150000Z&title=CDM+Contribution+Review+Working+Group))
+ - **CDM Contribution Review Working Group** - _Monthly on the first tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3rj6nqfgommkqpk53s8rgmsfen_20251202T150000Z&title=CDM+Contribution+Review+Working+Group))
+ - **CDM Derivatives Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=8cho1bqeil5tr5fg1gdckgts4k_20251119T163000Z&title=CDM+Derivatives+Working+Group))
+ - **CDM Physical Risk Working Group** - _Monthly on the second wednesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3plclrc99ir73c5j83v14kqgoi_20251112T140000Z&title=CDM+Physical+Risk+Working+Group))
+ - **CDM Smart Contract Taskforce ** - _Every 4 weeks_ ([Join Meeting](https://calendar.finos.org/signup?eventId=01d6g4br02jqa4okt20hlgmikh_20251205T143000Z&title=CDM+Smart+Contract+Taskforce+))
+ - **CDM Steering Working Group** - _Monthly on the second tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3fus5fjqie03nvtphf81gi4j5o_20251111T160000Z&title=CDM+Steering+Working+Group))
+ - **CDM Tokenized Assets Working Group** - _Monthly on the third wednesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=ra1qoghbg8q9aj4ho3tlmkodna_20251119T150000Z&title=CDM+Tokenized+Assets+Working+Group))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -905,8 +905,8 @@ _Compliant Financial Infrastructure accelerates the development, deployment and 
 > 
 #### Upcoming Meetings
 
- - **CCC Working Group: Compliant Financial Infrastructure** - _Monthly on the fourth thursday_ ([Join Meeting](https://zoom.us/j/99708793584?pwd=Zl27vbXvKmYod1KxL4Gbkbm6LfeDlN.1))
- - **CCC- Working Group: Compliant Financial Infrastructure** - _Monthly on the third thursday_ ([Join Meeting](https://zoom.us/j/99708793584?pwd=Zl27vbXvKmYod1KxL4Gbkbm6LfeDlN.1))
+ - **CCC Working Group: Compliant Financial Infrastructure** - _Monthly on the fourth thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=f962t9fnmorifbu5mhuprr63er_20251127T170000Z&title=CCC+Working+Group%3A+Compliant+Financial+Infrastructure))
+ - **CCC- Working Group: Compliant Financial Infrastructure** - _Monthly on the third thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=5i1l8f19olh61s3gdner20l19q_20251120T110000Z&title=CCC-+Working+Group%3A+Compliant+Financial+Infrastructure))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -1131,7 +1131,7 @@ _kdb+ Working Group from FINOS Data Technologies program_
 > 
 #### Upcoming Meetings
 
- - **FINOS KDB Project Call** - _Monthly on the second monday_ ([Join Meeting](https://zoom.us/j/94523415326?pwd=NkJDaUtUUlZTcHVwcUJHdG0yRFJUdz09))
+ - **FINOS KDB Project Call** - _Monthly on the second monday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=10vqvi1geoseds4p73l2u9gmig_20251110T143000Z&title=FINOS+KDB+Project+Call))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -1413,7 +1413,7 @@ _A next-generation data and analytics platform for use in highly regulated envir
 > 
 #### Upcoming Meetings
 
- - **TraderX - Monthly** - _Monthly on the fourth friday_ ([Join Meeting](https://zoom.us/j/96264933811))
+ - **TraderX - Monthly** - _Monthly on the fourth friday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3h8b1ovp0half18sp0qah5pqii_20251128T130000Z&title=TraderX+-+Monthly))
 
 [View On Calendar](https://calendar.finos.org)
 
