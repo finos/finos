@@ -269,7 +269,7 @@ _A universal language for business and technology_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/perspective.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-9541-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-1241-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-107-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-9546-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-1241-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-107-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/issues)
 
 _A data visualization and analytics component, especially well-suited for large and/or streaming datasets._
 
