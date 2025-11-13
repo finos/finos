@@ -86,7 +86,7 @@ _Create a space where expertise can be identified and implemented to help the fi
 #### Upcoming Meetings
 
  - **Zenith - FINOS Emerging Technologies SIG** - _Monthly on the fourth thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=1jmgr62fjls1gplbq21r0el0f0_20251127T150000Z&title=Zenith+-+FINOS+Emerging+Technologies+SIG))
- - **Zenith Brain Trust - FINOS Emerging Technologies SIG** - _Monthly on the second thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3s0i5mb312s7rmlei7stvcbpg8_20251113T150000Z&title=Zenith+Brain+Trust+-+FINOS+Emerging+Technologies+SIG))
+ - **Zenith Brain Trust - FINOS Emerging Technologies SIG** - _Monthly on the second thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3s0i5mb312s7rmlei7stvcbpg8_20251211T150000Z&title=Zenith+Brain+Trust+-+FINOS+Emerging+Technologies+SIG))
 
 [View On Calendar](https://calendar.finos.org)
 

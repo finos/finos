@@ -1,6 +1,6 @@
 # FINOS Projects
 
-Here are some of FINOS' most active projects (as of 12 Nov 2025):
+Here are some of FINOS' most active projects (as of 13 Nov 2025):
 
 
 **Special Interest Groups:**
@@ -120,7 +120,7 @@ _Provide a continuous compliance and assurance approach to DevOps that mutually 
 > 
 #### Upcoming Meetings
 
- - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=31nngaucj5sprgcbdpj9spfe4j_20251113T153000Z&title=Architecture+as+Code+Office+Hours))
+ - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=31nngaucj5sprgcbdpj9spfe4j_20251120T153000Z&title=Architecture+as+Code+Office+Hours))
  - **Architecture as Code Working Group - DevOps Automation** - _Monthly on the fourth tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=347pecaqmofn0m0lcqeffubcta_20260127T160000Z&title=Architecture+as+Code+Working+Group+-+DevOps+Automation))
  - **Evolution at Scale - DevOps Automation Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=34ti120a8thi3e1r26c2cq80dc_20251119T170000Z&title=Evolution+at+Scale+-+DevOps+Automation+Working+Group))
  - **FINOS DevOps Automation - Special Interest Group** - _Monthly on the third thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=2n3m2a6lm52dvvffh4jo8t10ib_20251120T170000Z&title=FINOS+DevOps+Automation+-+Special+Interest+Group))
@@ -290,7 +290,7 @@ _Create a space where expertise can be identified and implemented to help the fi
 #### Upcoming Meetings
 
  - **Zenith - FINOS Emerging Technologies SIG** - _Monthly on the fourth thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=1jmgr62fjls1gplbq21r0el0f0_20251127T150000Z&title=Zenith+-+FINOS+Emerging+Technologies+SIG))
- - **Zenith Brain Trust - FINOS Emerging Technologies SIG** - _Monthly on the second thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3s0i5mb312s7rmlei7stvcbpg8_20251113T150000Z&title=Zenith+Brain+Trust+-+FINOS+Emerging+Technologies+SIG))
+ - **Zenith Brain Trust - FINOS Emerging Technologies SIG** - _Monthly on the second thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3s0i5mb312s7rmlei7stvcbpg8_20251211T150000Z&title=Zenith+Brain+Trust+-+FINOS+Emerging+Technologies+SIG))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -331,7 +331,7 @@ _An open standard for the financial desktop._
 #### Upcoming Meetings
 
  - **FDC3 General Meeting** - _Every 6 months on the third tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=6stt9c3m0r4boisrb6tjt4q0v7_20260317T140000Z&title=FDC3+General+Meeting))
- - **FDC3 Identity & Security Working Group** - _Monthly on the second thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=la9vmdo6epqouj5jpkm59gpf35_20251113T150000Z&title=FDC3+Identity+%26+Security+Working+Group))
+ - **FDC3 Identity & Security Working Group** - _Monthly on the second thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=la9vmdo6epqouj5jpkm59gpf35_20251211T150000Z&title=FDC3+Identity+%26+Security+Working+Group))
  - **FDC3 Sail Project Meeting** - _Every 2 weeks on Mondays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/95252800112?password=90638454-991c-4ab0-8aed-791fc372623c&amp;invite=true))
  - **FDC3 Standard Working Group** - _Monthly on the fourth thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=4i44ucnpa0h7j8osedpcdhkr9k_20251127T150000Z&title=FDC3+Standard+Working+Group))
  - **FDC3 Use Cases and Workflows Discussion Group** - _Monthly on the first thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=vs0q1o7iesi4nsnfae37kvuo8s_20251204T150000Z&title=FDC3+Use+Cases+and+Workflows+Discussion+Group))
@@ -409,7 +409,7 @@ _MessageML is a markup language used by the Symphony Agent API for representing 
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/morphir.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-175-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/morphir/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-62-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/morphir)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-102-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/morphir/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:morphir+subscribe@finos.org)[![Chat On Slack](https://img.shields.io/badge/Slack-Join-orange?labelColor=eaebec&style=for-the-badge) ](https://app.slack.com/client/T01E7QRQH97/C01RDPAMYJW)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-175-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/morphir/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-62-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/morphir)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-103-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/morphir/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:morphir+subscribe@finos.org)[![Chat On Slack](https://img.shields.io/badge/Slack-Join-orange?labelColor=eaebec&style=for-the-badge) ](https://app.slack.com/client/T01E7QRQH97/C01RDPAMYJW)
 
 _A universal language for business and technology_
 
@@ -431,7 +431,7 @@ _A universal language for business and technology_
 > 
 #### Upcoming Meetings
 
- - **FINOS Morphir Project Meeting** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=6tarlrki7fdodg4n0hek3vfimr_20251113T160000Z&title=FINOS+Morphir+Project+Meeting))
+ - **FINOS Morphir Project Meeting** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=6tarlrki7fdodg4n0hek3vfimr_20251127T160000Z&title=FINOS+Morphir+Project+Meeting))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -485,7 +485,7 @@ _OpenMAMA is an open source project that provides a high performance middleware 
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/perspective.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-9704-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-1249-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-107-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-9727-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-1249-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-107-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/issues)
 
 _A data visualization and analytics component, especially well-suited for large and/or streaming datasets._
 
@@ -768,7 +768,7 @@ _FDC3 Desktop Agent Bridge_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/calm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-216-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-78-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-76-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:calm+subscribe@lists.finos.org)[![Chat On Slack](https://img.shields.io/badge/Slack-Join-orange?labelColor=eaebec&style=for-the-badge) ](https://app.slack.com/client/T01E7QRQH97/C085UHKL6SJ)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-216-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-78-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-77-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:calm+subscribe@lists.finos.org)[![Chat On Slack](https://img.shields.io/badge/Slack-Join-orange?labelColor=eaebec&style=for-the-badge) ](https://app.slack.com/client/T01E7QRQH97/C085UHKL6SJ)
 
 _"Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seamless maintenance of complex software architectures_
 
@@ -795,7 +795,7 @@ _"Architecture as Code" (AasC) aims to devise and manage software architecture v
 > 
 #### Upcoming Meetings
 
- - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=31nngaucj5sprgcbdpj9spfe4j_20251113T153000Z&title=Architecture+as+Code+Office+Hours))
+ - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=31nngaucj5sprgcbdpj9spfe4j_20251120T153000Z&title=Architecture+as+Code+Office+Hours))
  - **Architecture as Code Working Group - DevOps Automation** - _Monthly on the fourth tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=347pecaqmofn0m0lcqeffubcta_20260127T160000Z&title=Architecture+as+Code+Working+Group+-+DevOps+Automation))
 
 [View On Calendar](https://calendar.finos.org)
@@ -808,7 +808,7 @@ _"Architecture as Code" (AasC) aims to devise and manage software architecture v
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/ccc.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-72-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-cloud-controls/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-66-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-cloud-controls)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-11-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-cloud-controls/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-72-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-cloud-controls/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-66-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-cloud-controls)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-12-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-cloud-controls/issues)
 
 _FINOS Common Cloud Controls_
 
@@ -832,7 +832,7 @@ _FINOS Common Cloud Controls_
  - **CCC - Working Group: Taxonomy** - _Monthly on the fourth thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=0pe7vrav35o95j4820ftr4qbvj_20251225T163000Z&title=CCC+-+Working+Group%3A+Taxonomy))
  - **CCC Working Group: Compliant Financial Infrastructure** - _Monthly on the fourth thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=f962t9fnmorifbu5mhuprr63er_20251127T170000Z&title=CCC+Working+Group%3A+Compliant+Financial+Infrastructure))
  - **CCC- Working Group: Compliant Financial Infrastructure** - _Monthly on the third thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=5i1l8f19olh61s3gdner20l19q_20251120T110000Z&title=CCC-+Working+Group%3A+Compliant+Financial+Infrastructure))
- - **CCC- Working Group: Taxonomy** - _Monthly on the second thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=0063ggdm7pjht99idpjj8pne2h_20260108T163000Z&title=CCC-+Working+Group%3A+Taxonomy))
+ - **CCC- Working Group: Taxonomy** - _Monthly on the second thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=0063ggdm7pjht99idpjj8pne2h_20251211T163000Z&title=CCC-+Working+Group%3A+Taxonomy))
  - **FINOS Common Cloud Controls - Steering** - _Every 3 months on the second tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=268ol7k51uvff0etmkmv327qv9_20260310T130000Z&title=FINOS+Common+Cloud+Controls+-+Steering))
 
 [View On Calendar](https://calendar.finos.org)
@@ -845,7 +845,7 @@ _FINOS Common Cloud Controls_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/cdm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-202-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-97-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-128-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-203-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-97-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-130-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/issues)
 
 _The CDM is a model for financial products, trades in those products, and the lifecycle events of those trades. It is an open source standard that aligns data, systems and processes and is available as code in multiple languages for easy implementation across technologies._
 
@@ -864,7 +864,7 @@ _The CDM is a model for financial products, trades in those products, and the li
 > 
 #### Upcoming Meetings
 
- - ** CDM Technology Architecture Working Group** - _Monthly on the second thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=58a21bfk7k3k05jb9e6pihkn69_20251113T140000Z&title=+CDM+Technology+Architecture+Working+Group))
+ - ** CDM Technology Architecture Working Group** - _Monthly on the second thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=58a21bfk7k3k05jb9e6pihkn69_20251211T140000Z&title=+CDM+Technology+Architecture+Working+Group))
  - **CDM Collateral Working Group** - _Monthly on the last tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=dbqcnqhp9q0pkidaig9gopsboc_20251125T150000Z&title=CDM+Collateral+Working+Group))
  - **CDM Contribution Review Working Group** - _Monthly on the third tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=69q8mptjjadgu6mnstpt0nbncm_20251118T150000Z&title=CDM+Contribution+Review+Working+Group))
  - **CDM Contribution Review Working Group** - _Monthly on the first tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3rj6nqfgommkqpk53s8rgmsfen_20251202T150000Z&title=CDM+Contribution+Review+Working+Group))
@@ -1144,7 +1144,7 @@ _kdb+ Working Group from FINOS Data Technologies program_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/legend.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-1448-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-239-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-0-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:legend+subscribe@finos.org)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-1449-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-240-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-0-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:legend+subscribe@finos.org)
 
 _The Legend project_
 
@@ -1391,7 +1391,7 @@ _A next-generation data and analytics platform for use in highly regulated envir
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/traderx.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-87-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/traderX/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-105-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/traderX)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-26-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/traderX/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-87-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/traderX/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-104-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/traderX)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-26-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/traderX/issues)
 
 [![Topic: finos-hackathon-bmo](https://img.shields.io/badge/finos%20hackathon%20bmo-fafbfc)](https://github.com/topics/finos-hackathon-bmo) 
 
@@ -1425,7 +1425,7 @@ _A next-generation data and analytics platform for use in highly regulated envir
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/vuu.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-53-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/vuu/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-40-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/vuu)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-215-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/vuu/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-53-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/vuu/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-40-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/vuu)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-216-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/vuu/issues)
 
 _Vuu - an open source view server and html 5 based UI system_
 

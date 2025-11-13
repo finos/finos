@@ -11,7 +11,7 @@
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/calm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-216-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-78-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-76-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:calm+subscribe@lists.finos.org)[![Chat On Slack](https://img.shields.io/badge/Slack-Join-orange?labelColor=eaebec&style=for-the-badge) ](https://app.slack.com/client/T01E7QRQH97/C085UHKL6SJ)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-216-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-78-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-77-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:calm+subscribe@lists.finos.org)[![Chat On Slack](https://img.shields.io/badge/Slack-Join-orange?labelColor=eaebec&style=for-the-badge) ](https://app.slack.com/client/T01E7QRQH97/C085UHKL6SJ)
 
 _"Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seamless maintenance of complex software architectures_
 
@@ -38,7 +38,7 @@ _"Architecture as Code" (AasC) aims to devise and manage software architecture v
 > 
 #### Upcoming Meetings
 
- - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=31nngaucj5sprgcbdpj9spfe4j_20251113T153000Z&title=Architecture+as+Code+Office+Hours))
+ - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=31nngaucj5sprgcbdpj9spfe4j_20251120T153000Z&title=Architecture+as+Code+Office+Hours))
  - **Architecture as Code Working Group - DevOps Automation** - _Monthly on the fourth tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=347pecaqmofn0m0lcqeffubcta_20260127T160000Z&title=Architecture+as+Code+Working+Group+-+DevOps+Automation))
 
 [View On Calendar](https://calendar.finos.org)
@@ -70,7 +70,7 @@ _Provide a continuous compliance and assurance approach to DevOps that mutually 
 > 
 #### Upcoming Meetings
 
- - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=31nngaucj5sprgcbdpj9spfe4j_20251113T153000Z&title=Architecture+as+Code+Office+Hours))
+ - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=31nngaucj5sprgcbdpj9spfe4j_20251120T153000Z&title=Architecture+as+Code+Office+Hours))
  - **Architecture as Code Working Group - DevOps Automation** - _Monthly on the fourth tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=347pecaqmofn0m0lcqeffubcta_20260127T160000Z&title=Architecture+as+Code+Working+Group+-+DevOps+Automation))
  - **Evolution at Scale - DevOps Automation Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=34ti120a8thi3e1r26c2cq80dc_20251119T170000Z&title=Evolution+at+Scale+-+DevOps+Automation+Working+Group))
  - **FINOS DevOps Automation - Special Interest Group** - _Monthly on the third thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=2n3m2a6lm52dvvffh4jo8t10ib_20251120T170000Z&title=FINOS+DevOps+Automation+-+Special+Interest+Group))
